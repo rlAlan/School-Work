@@ -1,2 +1,3 @@
 # School-Work
-School work, just really bad
+School work, just really bad.
+
