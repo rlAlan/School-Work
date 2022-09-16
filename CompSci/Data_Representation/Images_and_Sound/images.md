@@ -37,3 +37,10 @@
     e.g.
      what is the resolution of a 100 pixel by 70 pixel image:
      100 * 70 = 7000 pixels
+ #### Colour depth
+    <summary>
+    The number of bits used to represent the colour of a single pixel
+    Number of pixels * colour depth = image size
+    </summary>
+    
+    </summary>
